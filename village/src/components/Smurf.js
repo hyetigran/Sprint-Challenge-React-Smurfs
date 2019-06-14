@@ -3,6 +3,7 @@ import React from 'react';
 const Smurf = props => {
 	// console.log(props);
 	// debugger;
+
 	return (
 		<div className="smurf-card">
 			<h3>{props.name}</h3>
